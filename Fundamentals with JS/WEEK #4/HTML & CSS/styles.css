@@ -1,0 +1,24 @@
+.green {
+    display: inline-block;
+    background-color: green;
+}
+
+.blue {
+    display: inline-block;
+    background-color: blue;
+}
+
+.purple {
+    display: inline-block;
+    background-color: purple;
+}
+
+.red {
+    display: inline-block;
+    background-color: red;
+}
+
+.orange {
+    display: inline-block;
+    background-color: orange;
+}
